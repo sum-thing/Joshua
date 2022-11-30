@@ -11,11 +11,6 @@
 - 🔒 Learn more about Databases
 - 🗃️ Build Projects
 
-
-
 ### Languages (So Far)
-<div>
-<img src="https://github.com/sum-thing/Joshua/blob/main/icons/html-5(2).png" height="34px"></img> 
+<img src="https://github.com/sum-thing/Joshua/blob/main/icons/html-5(2).png" height="34px"></img>
 <img src="https://github.com/sum-thing/Joshua/blob/main/icons/css-3.png" height="34px"></img> 
-<img src="https://github.com/sum-thing/Joshua/blob/main/icons/Git-Icon-1788C.png" height="34px"></img>
-</div>
