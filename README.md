@@ -1,16 +1,18 @@
-### Hey There, I'm Josh 👋
+<h3>Hey there, I'm Josh 👋</h3>
 
+<h2> I'm currently Re-Learning Website Development! </h2>
 
-
-## I'm currently Re-Learning Website Development!
-
-#### **📍 Goals 📍**
-
-- 💎 Learn Advanced HTML & CSS
-- 🧥 Learn JavaScript & NodeJS
-- 🔒 Learn more about Databases
-- 🗃️ Build Projects
-
-### Languages (So Far)
-<img src="https://github.com/sum-thing/Joshua/blob/main/icons/html-5(2).png" height="34px"></img>
-<img src="https://github.com/sum-thing/Joshua/blob/main/icons/css-3.png" height="34px"></img> 
+<h4>🙌 Goals 🙌<h4>
+ <ul>
+  <li>✏️ Learn Advanced CSS & HTML</li>
+  <li>⌨️ Learn JavaScript & NodeJS</li>
+  <li>🔗 Learn Databases</li>
+  <li>📁 Build Projects</li>
+</ul> 
+  
+<h3> Languages </h3>
+  <div> 
+    <img height="34px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></img>
+    <img height="34px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></img>
+    <img height="34px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img>
+  </div>
